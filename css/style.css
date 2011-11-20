@@ -269,7 +269,7 @@ SLIDE 2
 		padding-top:10px;
 	}
 
-	#slide2 h2 {
+	.single h2 {
 		padding-top:0px;
 		font-size: 25px;
 		font-weight: 600;
@@ -539,6 +539,10 @@ SLIDE 3
 		font-weight: 600;
 		color: #ffffff;
 		margin: 0px 0 0 23px;
+	}
+	
+	.bio h2 a {
+		color:#ffffff; 
 	}
 
 	.bio .overlay {
